@@ -10,11 +10,11 @@ Please remember that the primary goal is the safety of the client -- do not make
 whether the changes are likely to put them in more danger. Even changing a single setting can be a dangerous action.
 
 There are two general directions for the shelter to pursue if they are interested.
-	The shelter can seek out additional training for their employees and handle this internally.
+The shelter can seek out additional training for their employees and handle this internally.
 
-	or
+or
 
-	The shelter can seek out an individual to hold appointments with clients and audit their device.
+The shelter can seek out an individual to hold appointments with clients and audit their device.
 
 The later step is what I instituted, but either should work sufficiently.
 
